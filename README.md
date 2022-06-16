@@ -8,7 +8,7 @@ See https://www.theverge.com/2022/6/7/23158510 for more information.
 
 Link to original .shapr source file. https://github.com/schwa/continuity-camera-mount
 
-Printable Link: https://www.printables.com/model/225801-imac-pro-continuity-camera-mount
+Printable Links: [iMac Pro](https://www.printables.com/model/225801-imac-pro-continuity-camera-mount). [Macbook Pro](https://www.printables.com/model/226109-macbook-pro-continuity-camera-mount)
 
 *Important*: This is designed to be used with an Apple Magsafe charger (https://www.apple.com/shop/product/MHXH3AM/A/magsafe-charger) to keep your phone mounted securely. Alternative you could try a solution like this - https://www.amazon.com/dp/B097CGPZV3.
 
