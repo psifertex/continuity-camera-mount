@@ -6,9 +6,7 @@ A mount to use your iOS 16 MagSafe equipped iPhone as a Continuity Camera for an
 
 See https://www.theverge.com/2022/6/7/23158510 for more information.
 
-Link to original .shapr source file. https://github.com/schwa/continuity-camera-mount
-
-Printable Links: [iMac Pro](https://www.printables.com/model/225801-imac-pro-continuity-camera-mount). [Macbook Pro](https://www.printables.com/model/226109-macbook-pro-continuity-camera-mount)
+**Printable Links**: [iMac Pro](https://www.printables.com/model/225801-imac-pro-continuity-camera-mount). [Macbook Pro](https://www.printables.com/model/226109-macbook-pro-continuity-camera-mount) (download the model files here for 3D printing)
 
 *Important*: This is designed to be used with an Apple Magsafe charger (https://www.apple.com/shop/product/MHXH3AM/A/magsafe-charger) to keep your phone mounted securely. Alternatively you could try a solution like this - https://www.amazon.com/dp/B097CGPZV3.
 
@@ -22,7 +20,6 @@ Printable Links: [iMac Pro](https://www.printables.com/model/225801-imac-pro-con
 
 This design is for MacBook Pro (tested on 16" M1 MacBook Pro) but should fit any display that is ~5mm deep.
 
-* [3mf (for printing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.3mf)
 * [Shapr3D (original model)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.shapr)
 * [Step (CAD interchange)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.step)
 * [USDZ (for AR viewing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.usdz)
@@ -31,7 +28,6 @@ This design is for MacBook Pro (tested on 16" M1 MacBook Pro) but should fit any
 
 This design is contoured to fit well on the back of an iMac Pro. It may work with other iMacs but is unlikely to work on the new Apple Silicon iMacs (perhaps the MacBook design one will work?)
 
-* [3mf (for printing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.3mf)
 * [Shapr3D (original model)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.shapr):
 * [Step (CAD interchange)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.step)
 * [USDZ (for AR viewing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.usdz)
