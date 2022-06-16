@@ -14,14 +14,6 @@ Printable Link: https://www.printables.com/model/225801-imac-pro-continuity-came
 
 ![iMac Pro Render](Images/IMG_0018.PNG)
 
-### Mount in use on an iMac Pro
-
-![iMac Pro In-Use](Images/IMG_0014.jpeg)
-
-### MacBook Pro mount in use
-
-![Macbook Pro In Usse](Images/IMG_0019.jpeg)
-
 ## Model Files:
 
 ### MacBook Pro
