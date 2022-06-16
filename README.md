@@ -35,7 +35,7 @@ This design is for MacBook Pro (tested on 16" M1 MacBook Pro) but should fit any
 
 ### iMac Pro
 
-This design is contoured to fit well on the back of an iMac Pro. It may work with other iMacs but is unlikely to work on the new Apple Silicon iMaps (perhaps the MacBook design one will work?)
+This design is contoured to fit well on the back of an iMac Pro. It may work with other iMacs but is unlikely to work on the new Apple Silicon iMac's (perhaps the MacBook design one will work?)
 
 * [3mf (for printing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.3mf)
 * [Shapr3D (original model)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.shapr):
