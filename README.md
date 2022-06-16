@@ -2,7 +2,7 @@
 
 ## Description
 
-A mount to use your iOS 16 MagSafe equipped iPhone as a Continuity Camera for an iMac Pro.
+A mount to use your iOS 16 MagSafe equipped iPhone as a Continuity Camera for an iMac Pro (and now MacBook Pro).
 
 See https://www.theverge.com/2022/6/7/23158510 for more information.
 
@@ -10,7 +10,7 @@ Link to original .shapr source file. https://github.com/schwa/continuity-camera-
 
 Printable Links: [iMac Pro](https://www.printables.com/model/225801-imac-pro-continuity-camera-mount). [Macbook Pro](https://www.printables.com/model/226109-macbook-pro-continuity-camera-mount)
 
-*Important*: This is designed to be used with an Apple Magsafe charger (https://www.apple.com/shop/product/MHXH3AM/A/magsafe-charger) to keep your phone mounted securely. Alternative you could try a solution like this - https://www.amazon.com/dp/B097CGPZV3.
+*Important*: This is designed to be used with an Apple Magsafe charger (https://www.apple.com/shop/product/MHXH3AM/A/magsafe-charger) to keep your phone mounted securely. Alternatively you could try a solution like this - https://www.amazon.com/dp/B097CGPZV3.
 
 ### Render of mount on an iMac Pro
 
