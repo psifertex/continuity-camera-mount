@@ -1,3 +1,7 @@
+# NOTICE
+
+Contents of this repository are moving to https://github.com/schwa/3D-Prints/tree/main/Magsafe%20Camera%20Mount - this repository will be removed soon...
+
 # continuity-camera-mount
 
 ## Description
